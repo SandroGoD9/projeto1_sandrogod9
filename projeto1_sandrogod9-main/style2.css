@@ -1,0 +1,31 @@
+body {
+text-align: center;
+margin-top: 50px;   
+background-color: black; 
+}
+
+h2{
+    color: rgb(47, 23, 166);
+    cursor:pointer;
+    padding: 30px;
+    background-color: rgb(168, 19, 101);
+    border:1px solid rgb(45, 23, 156);
+    margin-top:-1px;  
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    cursor:pointer;
+    padding: 8px;
+    background-color: rgb(168, 19, 101);
+    border:1px solid rgb(45, 23, 156);
+    margin-top:-1px;  
+    color: blue;
+}
+
+li:hover {background-color: rgb(42, 165, 50);}
